@@ -41,3 +41,7 @@ bind(printUID, t);
 ## Dependencies
 
 - [MaybeC](https://github.com/SlimTim10/MaybeC)
+
+## RFID Module Support
+
+- RDM630
