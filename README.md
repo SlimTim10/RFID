@@ -37,3 +37,7 @@ uint8_t n = 1;
 maybe t = readTagAt(&n);
 bind(printUID, t);
 ```
+
+## Dependencies
+
+- [MaybeC](https://github.com/SlimTim10/MaybeC)
